@@ -1,2 +1,2 @@
-$DOTFILES/vim/rc.zsh=$HOME/.vimrc
+$DOTFILES/vim/rc.vim=$HOME/.vimrc
 

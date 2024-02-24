@@ -10,7 +10,7 @@ set -e
 link_file() {
 
 	local src=$1 dst=$2
-	local action=
+	local action=false
 	local skip=false
 	local overwrite=false
 	local backup=false
