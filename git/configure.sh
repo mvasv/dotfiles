@@ -14,3 +14,5 @@ git config --global --add --bool push.autoSetupRemote true
 git config --global merge.tool vimdiff
 git config --global merge.conflictstyle diff3
 git config --global mergetool.prompt false
+
+git config --global core.editor /usr/bin/vim
